@@ -5,8 +5,7 @@ layout: default
 <main class="content" role="main">
 
   <header class="blog-header">
-      <h1 class="blog-title">{{ site.title }}</h1>
-      <h2 class="blog-description">{{ site.description }}</h2>
+      <h3 class="blog-description">{{ site.description }}</h3>
   </header>
 
   <div class="cf frame">
@@ -33,8 +32,8 @@ layout: default
     {% else %}
       <a class="newer-posts disabled">&larr; Older posts</a>
     {% endif %}
-    <span class="page-number">Page {{ paginator.page }} of {{ paginator.total_pages }}</span>
-    {% if paginator.previous_page %}
+<!--     <span class="page-number">Page {{ paginator.page }} of {{ paginator.total_pages }}</span>
+ -->    {% if paginator.previous_page %}
       {% if paginator.page == 2 %}
         <a class="older-posts" href="{{ site.baseurl }}/">Newer posts &rarr;</a>
       {% else %}
