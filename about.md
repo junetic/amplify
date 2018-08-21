@@ -4,25 +4,10 @@ title: About
 permalink: "/about/"
 
 ---
-<amp-img width="600" height="300" layout="responsive" src="http://lorempixel.com/600/300/sports"></amp-img>
+Hello! This is the blog for UserLook where we will talk about tips, methods and insights on getting real feedback from users. UserLook makes getting customer feedback and talking to your users easy, cheap and effective. You can out how it works here:  
+  
+[www.userlook.co](www.userlook.co "userlook user testing and feedback")
 
-Hello World. This is the about page for UserLook.
+We also offer a free user testing tool if you already have contact with your own users or customers to get remote in-context feedback from:
 
-Aliquam vestibulum purus enim. Sed rhoncus interdum erat id consequat. Nulla
-cursus venenatis massa, quis convallis lacus condimentum vel. Etiam mollis,
-orci ac pharetra commodo, diam lectus hendrerit eros, ac elementum magna augue
-sed tellus. Maecenas molestie, nisi ut sodales scelerisque, purus neque
-imperdiet dui, mollis elementum sem augue vel ipsum. Nulla lacinia arcu at quam
-lobortis, vitae interdum tellus fermentum. Cum sociis natoque penatibus et
-magnis dis parturient montes, nascetur ridiculus mus. Fusce sodales semper erat,
-eu fringilla ligula vulputate id. Maecenas quis libero pellentesque lacus
-egestas vehicula sit amet et neque. Nulla nec facilisis sem. Pellentesque rutrum
-elementum molestie. Quisque eget dui ac quam placerat dictum. Suspendisse quis
-ante placerat, efficitur enim ut, commodo tortor. Etiam consequat, eros quis
-consequat congue, augue mauris molestie libero, sed iaculis lectus enim eu magna.
-
-Etiam sapien dolor, mattis vel feugiat nec, egestas eget risus. Lorem ipsum
-dolor sit amet, consectetur adipiscing elit. Aenean aliquam massa a est porta
-vehicula. Cras eu gravida massa. Integer non sem ac mi ultrices posuere a
-pretium tortor. Mauris vitae varius sem. Praesent faucibus nec felis et dictum.
-Vestibulum lorem velit, laoreet nec vestibulum in, varius nec enim.
+[recorder.userlook.co](https://recorder.userlook.co "userlook recorder")
