@@ -3,6 +3,7 @@ title: 3 Quick & Cheap User Testing Methods
 date: 2018-08-21 10:44:03 +0000
 text_field: ''
 layout: post
+permalink: 3-quick-and-cheap-user-testing-methods
 
 ---
 How to get in-context customer feedback quickly and cheaply—with no experience required ✍😊
