@@ -9,16 +9,15 @@
 title: UserLook Blog
 email: userlookco@gmail.com
 description: >
-  Everything about User Research, User Testing & Customer Insights.
+  Everything about User Testing & Customer Feedback.
 logo: "/assets/images/logo.png"
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "http://blog.userlook.co" # the base hostname & protocol for your site
 paginate:	5 # The number of posts to show per page on your homepage
 
-name: 'userlook'
+name: 'UserLook'
 bio: >
-  Mea suas vituperatoribus et, virtute corpora quaestio cum ut.
-  Ne solet nostrum complectitur pri, vis ut inani populo.
+  UserLook makes remote in-context user testing simple, fast and cheap.
 author_image: "/assets/images/author.jpg"
 twitter_username: userlookco
 github_username:  
