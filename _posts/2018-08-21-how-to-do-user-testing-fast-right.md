@@ -39,7 +39,7 @@ This is similar to in-person where you interview people, show them prototypes an
 
 This is the _fastest way_ to test with users and get user feedback. You put up your app, website or prototype hooked up to a service or tool w/ screen recording and mic—and then get back videos of users talking while using it.
 
-![](/uploads/remote_unmoderated_user_testing.png)
+![user testing video screencast feedback mobile app](/uploads/remote_unmoderated_user_testingsm.png "remote unmoderated user testing")
 
 There are other fast ways where you can get text feedback or survey responses, but we’ll intentionally leave them out here. It’s because text based feedback is limited.
 
