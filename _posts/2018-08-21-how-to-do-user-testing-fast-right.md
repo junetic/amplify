@@ -1,5 +1,5 @@
 ---
-title: How to Do User Testing—Quickly & Cheaply
+title: 3 Quick & Cheap User Testing Methods
 date: 2018-08-21 10:44:03 +0000
 text_field: ''
 layout: post
