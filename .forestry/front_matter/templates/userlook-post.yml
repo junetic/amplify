@@ -3,3 +3,5 @@ label: UserLook Post
 hide_body: false
 is_partial: false
 fields: []
+pages:
+- _posts/how-to-do-user-testing-fast-right.md
