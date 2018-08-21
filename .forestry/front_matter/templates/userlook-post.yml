@@ -9,5 +9,8 @@ fields:
 - type: text
   name: title
   label: title
+- type: text
+  label: permalink
+  name: permalink
 pages:
 - _posts/2018-08-21-how-to-do-user-testing-fast-right.md
