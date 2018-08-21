@@ -18,7 +18,7 @@ Generally speaking, user testing, user research and usability testing (we will u
 
 ![user interaction model say do think feel](/uploads/say_do_user_interaction.png "Say do think feel")
 
-### Fast & agile usability testing methods.
+### Fast & agile usability testing methods.
 
 Below are the best ways to learn from your users when you are tight on time and budget. Maybe you need to convince your team to make decisions with real user feedback. Or maybe you need a way to fit in research into your team’s agile cycles. Whatever the reason, if you’re not a full-time user researcher—cheap and fast is likely better than slow, expensive and _doing it wrong._ And it’s way better than not doing any user testing at all. If you’ve been making excuses about user research and testing being expensive and time consuming—we hope this article can let you see otherwise :D
 
