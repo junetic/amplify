@@ -5,9 +5,9 @@ text_field: ''
 layout: post
 
 ---
-How to get in-context customer feedback quickly and cheaply—with no experience required ✍😊️
+How to get in-context customer feedback quickly and cheaply—with no experience required ✍😊
 
-![mobile users using app at cafe](/uploads/mobile_user_testing_feedback.png "mobile user testing cafe")You may be wondering—why does user testing need to be fast? 
+![mobile users using app at cafe](/uploads/mobile_user_testing_feedbacksm.png "mobile user testing cafe")You may be wondering—why does user testing need to be fast?
 
 It doesn’t but it can be. It shouldn’t slow you or your team down in getting to the right solutions either. If you believe iterating, learning and failing sooner will lead you to a better product — then please read on :)
 
@@ -29,7 +29,7 @@ Sometimes referred to as “hallway usability testing,” this skips all the rec
 
 ![free coffee guerilla user feedback research](/uploads/guerilla_user_testing.png "guerilla user testing")
 
-### **2. Remote moderated testing (aka video chat)** 
+### **2. Remote moderated testing (aka video chat)**
 
 This is similar to in-person where you interview people, show them prototypes and learn from them—but in a remote setting usually via video chat. You still need to recruit users, schedule time, risk no-shows—but skipping the travel logistics and global access is really great.
 
@@ -41,10 +41,10 @@ This is the _fastest way_ to test with users and get user feedback. You put up y
 
 ![](/uploads/remote_unmoderated_user_testing.png)
 
-There are other fast ways where you can get text feedback or survey responses, but we’ll intentionally leave them out here. It’s because text based feedback is limited. 
+There are other fast ways where you can get text feedback or survey responses, but we’ll intentionally leave them out here. It’s because text based feedback is limited.
 
-> What people say isn’t always what they actually do. 
+> What people say isn’t always what they actually do.
 
 For the purposes of understanding _user behavior_, text feedback without showing what people actually do—leaves too much potential for bias and misinterpretation.
 
-In the next series of articles, we’ll explain how to do the last two remote testing methods.. 
+In the next series of articles, we’ll explain how to do the last two remote testing methods..
