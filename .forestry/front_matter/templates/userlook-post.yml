@@ -4,7 +4,10 @@ hide_body: false
 is_partial: false
 fields:
 - type: text
-  name: text_field
-  label: text field
+  name: layout
+  label: layout
+- type: text
+  name: title
+  label: title
 pages:
 - _posts/how-to-do-user-testing-fast-right.md
