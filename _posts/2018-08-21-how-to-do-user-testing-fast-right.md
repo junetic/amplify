@@ -1,5 +1,5 @@
 ---
-title: How to Do User Testing-Fast & Right
+title: How to Do User Testing—Quick & Cheap
 date: 2018-08-21 10:44:03 +0000
 text_field: ''
 layout: post
