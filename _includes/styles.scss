@@ -50,7 +50,7 @@ main {
 
 body {
   background-color: #fff;
-  font-family: $font-sans;
+  font-family: $font-serifs;
   margin: 0;
   padding: 0;
   text-rendering: optimizeLegibility;
@@ -141,7 +141,7 @@ body {
       font-weight: 700;
       font-style: normal;
       display: block;
-      font-size: 36px;
+      font-size: 32px;
       line-height: 1.15;
       margin: 0 0;
       a {
@@ -263,7 +263,7 @@ body {
   .post-content {
     width: 100%;
     font-family: $font-serif;
-    color: #333333;
+    color: #555555;
     h1, h2, h3 {
       font-family: $font-sans;
     }
@@ -278,13 +278,13 @@ body {
       font-family: $font-sans;
     }
     h3 {
-      font-size: 36px;
+      font-size: 32px;
     }
     h2, h1 {
       letter-spacing: -0.02em;
       font-weight: 700;
       font-style: normal;
-      font-size: 42px;
+      font-size: 36px;
       line-height: 1.2;
       margin-top: 50px;
       margin-bottom: 0px;
