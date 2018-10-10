@@ -4,11 +4,9 @@ date: 2018-10-10 06:22:56 +0000
 layout: post
 
 ---
-![show don't tell user testing](https://cdn-images-1.medium.com/max/1600/0*aXN2jbTBWj5uHPnH "Show don't tell user testing")
-
 The best way to convince your team to do some user testing or research is to simply _show_ them.
 
-Imagine you were on Medium’s homepage product team and were:
+![show don't tell user testing](https://cdn-images-1.medium.com/max/1600/0*aXN2jbTBWj5uHPnH "Show don't tell user testing")Imagine you were on Medium’s homepage product team and were:
 
 * Trying to integrate user testing and research into the project, but getting push-back because of resource and time constraints.
 * Having difficulty trying to agree on which areas/opportunities to focus on to improve the homepage.
