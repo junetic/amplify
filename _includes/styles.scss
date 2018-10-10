@@ -21,6 +21,10 @@ $grey-color:       #828282;
         }
     }
 }
+iframe {
+  display: block;
+  margin: auto;
+}
 img {
   max-width: 99%;
   text-align: center;
@@ -366,7 +370,7 @@ body {
     }
     ul, ol {
       padding: 0 0 30px;
-      margin: 0;
+      margin: 20px 0px 0px 0px;
     }
     li {
       padding: 0;
