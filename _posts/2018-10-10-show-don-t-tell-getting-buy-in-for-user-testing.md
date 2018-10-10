@@ -2,6 +2,7 @@
 title: Show Don't Tell—Getting Buy-In for User Testing
 date: 2018-10-10 06:22:56 +0000
 layout: post
+permalink: getting-buyin-for-user-testing
 
 ---
 The best way to convince your team to do some user testing or research is to simply _show_ them.
