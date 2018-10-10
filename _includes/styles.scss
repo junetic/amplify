@@ -18,6 +18,8 @@ $grey-color:       #828282;
 }
 img {
   max-width: 99%;
+  text-align: center;
+  margin:   auto;
 }
 amp-img {
   background-color: grey;
@@ -159,6 +161,7 @@ body {
       font-size: 20px;
       line-height: 1.59;
       color: #666665;
+      font-family: $font-serif;
     }
     .post-meta {
       font-size: 14px;
@@ -262,7 +265,7 @@ body {
 
   .post-content {
     width: 100%;
-    font-family: $font-serif;
+    font-family: $font-sanss;
     color: #555555;
     h1, h2, h3 {
       font-family: $font-sans;
