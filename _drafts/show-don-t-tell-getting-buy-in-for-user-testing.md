@@ -4,11 +4,7 @@ date: 2018-10-10 06:22:56 +0000
 layout: post
 
 ---
-***
-
-### Show, Don’t Tell—Getting Buy-In for User Research
-
-![](https://cdn-images-1.medium.com/max/1600/0*aXN2jbTBWj5uHPnH)Show, don’t tell ([source](http://www.giphy.com))
+![](https://cdn-images-1.medium.com/max/1600/0*aXN2jbTBWj5uHPnH)
 
 The best way to convince your team to do some user research or testing is to simply _show_ them.
 
@@ -21,6 +17,10 @@ You tried to talk on and on about the business benefits and risk-mitigation of u
 
 Then you simply showed this [unmoderated user testing](https://blog.userlook.co/remote-user-testing-for-mobile-apps) video to your team:
 
+    <iframe frameborder="0" scrolling="no" marginheight="0" marginwidth="0"width="788.54" height="443" type="text/html" src="https://www.youtube.com/embed/tRBQlRKT2SE?autoplay=0&fs=0&iv_load_policy=3&showinfo=0&rel=0&cc_load_policy=1&start=0&end=0&origin=https://youtubeembedcode.com"><div><small><a href="https://youtubeembedcode.com/en">youtube embed code</a></small></div><div><small><a href="https://promocode.com.ph/">http://promocode.com.ph/</a></small></div><div><small><a href="https://youtubeembedcode.com/en">youtube embed code</a></small></div><div><small><a href="https://promocode.com.ph/">www://promocode.com.ph/</a></small></div></iframe>
+
+  
+  
 New user visiting Medium’s homepage (we are not affiliated with Medium and the homepage probably changed since 😊).
 
 Here are a few highlights of what your team may have witnessed and realized after watching this short video:
@@ -45,7 +45,7 @@ Here are a few highlights of what your team may have witnessed and realized afte
 
 These are potential insights from just one new user’s opinion. It gets you _thinking_.. Which other users, if any, will say similar things? What other user and usability issues are there in achieving our business goals for the homepage?
 
-And it certainly will get your team to start thinking as well. The conversation will then shift away from any of your team’s or other stakeholder’s personal opinions. And to the needs and context of target your users. 
+And it certainly will get your team to start thinking as well. The conversation will then shift away from any of your team’s or other stakeholder’s personal opinions. And to the needs and context of target your users.
 
 ![](https://cdn-images-1.medium.com/max/1600/0*qILfJYq8oUMQrORo)Real user evidence will increase user empathy for your team ([source](http://www.giphy.com))
 
@@ -53,14 +53,14 @@ Then someone will ask:
 
 > _Well how much time and resources do we need allocate to do more of this type of user testing?_
 
-You answer: 
+You answer:
 
 > _It took only seconds to setup with results coming in within 24 hours. And it cost less than an UberX ride (or Lyft😊)._
 
 ![](https://cdn-images-1.medium.com/max/1600/0*owRvs5v-MFZb2oML.gif)[source](http://www.giphy.com)
 
-Show, don’t tell. 
+Show, don’t tell.
 
-Try it next time. 
+Try it next time.
 
 And l[et us know](http://www.twitter.com/userlookco) how it goes and if you’d like some additional support convincing your team or boss 😁😁🙌
