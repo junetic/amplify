@@ -9,7 +9,6 @@ The best way to convince your team to do some user testing or research is to sim
 
 ![show don't tell user testing](https://cdn-images-1.medium.com/max/1600/0*aXN2jbTBWj5uHPnH "Show don't tell user testing")Imagine you were on Medium’s homepage product team and were:
 
-
 * Trying to integrate user testing and research into the project, but getting push-back because of resource and time constraints.
 * Having difficulty trying to agree on which areas/opportunities to focus on to improve the homepage.
 
@@ -17,13 +16,11 @@ You tried to talk on and on about the business benefits and risk-mitigation of u
 
 Then you simply showed this [unmoderated user testing](https://blog.userlook.co/remote-user-testing-for-mobile-apps) video to your team:
 
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/52xV47eZVG4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 New user visiting Medium’s homepage (we are not affiliated with Medium and the homepage probably changed since 😊).
 
 Here are a few highlights of what your team may have witnessed and realized after watching this short video:
-
 
 1. Some of the **categories are confusing** (ie ‘Unruly Bodies’) and some context/explanation could be helpful:
 
@@ -31,13 +28,13 @@ Here are a few highlights of what your team may have witnessed and realized afte
 
 ***
 
-2. The **homepage assumes that users already know** what the site is about:
+1. The **homepage assumes that users already know** what the site is about:
 
 > “I don’t really know what it is. It doesn’t say it’s a news site. It assumes you already know. Maybe if they had a banner telling you what it is..”
 
 ***
 
-3. **Credibility of writers and content** isn’t clear especially with the emphasis on membership:
+1. **Credibility of writers and content** isn’t clear especially with the emphasis on membership:
 
 > “I would rather get news from a source that has fact-checking. This just seems like anybody could put up news and content and make it look like news.”
 
