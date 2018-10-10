@@ -18,8 +18,6 @@ Then you simply showed this [unmoderated user testing](https://blog.userlook.co/
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/52xV47eZVG4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-New user visiting Medium’s homepage (we are not affiliated with Medium and the homepage probably changed since 😊).
-
 Here are a few highlights of what your team may have witnessed and realized after watching this short video:
 
 1. Some of the **categories are confusing** (ie ‘Unruly Bodies’) and some context/explanation could be helpful:
@@ -44,8 +42,7 @@ These are potential insights from just one new user’s opinion. It gets you _th
 
 And it certainly will get your team to start thinking as well. The conversation will then shift away from any of your team’s or other stakeholder’s personal opinions. And to the needs and context of target your users.
 
-![](https://cdn-images-1.medium.com/max/1600/0*qILfJYq8oUMQrORo)  
-Real user evidence will increase user empathy for your team ([source](http://www.giphy.com))
+![](https://cdn-images-1.medium.com/max/1600/0*qILfJYq8oUMQrORo)
 
 Then someone will ask:
 
