@@ -67,7 +67,6 @@ body {
   margin: 0;
   padding: 0;
   text-rendering: optimizeLegibility;
-  -webkit-font-smoothing: antialiased;
   -moz-font-feature-settings: "liga=1, dlig=1";
   -ms-font-feature-settings: "liga", "dlig";
   -webkit-font-feature-settings: "liga", "dlig";
@@ -172,7 +171,7 @@ body {
       font-style: normal;
       font-size: 20px;
       line-height: 1.59;
-      color: #666665;
+      color: #8c8c8c;
       font-family: $font-serif;
     }
     .post-meta {
@@ -277,8 +276,8 @@ body {
 
   .post-content {
     width: 100%;
-    font-family: $font-sans;
-    color: #555555;
+    font-family: $font-serif;
+    color: #666;
     h1, h2, h3 {
       font-family: $font-sans;
     }
@@ -320,7 +319,7 @@ body {
       letter-spacing: -.002em;
       margin-top: 30px;
       margin-bottom: 0;
-      color: #333333;
+      color: #666;
       -webkit-hyphens: auto;
       -moz-hyphens: auto;
       hyphens: auto;
