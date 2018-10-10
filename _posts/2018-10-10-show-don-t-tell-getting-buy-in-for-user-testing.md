@@ -27,13 +27,13 @@ Here are a few highlights of what your team may have witnessed and realized afte
 
 ***
 
-2\. The **homepage assumes that users already know** what the site is about:
+2. The **homepage assumes that users already know** what the site is about:
 
 > “I don’t really know what it is. It doesn’t say it’s a news site. It assumes you already know. Maybe if they had a banner telling you what it is..”
 
 ***
 
-3\. **Credibility of writers and content** isn’t clear especially with the emphasis on membership:
+3. **Credibility of writers and content** isn’t clear especially with the emphasis on membership:
 
 > “I would rather get news from a source that has fact-checking. This just seems like anybody could put up news and content and make it look like news.”
 
