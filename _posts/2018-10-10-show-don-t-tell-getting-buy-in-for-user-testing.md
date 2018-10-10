@@ -14,7 +14,9 @@ The best way to convince your team to do some user testing or research is to sim
 You tried to talk on and on about the business benefits and risk-mitigation of user research. Or how quickly and cheaply you could do it—if we could all agree to just try..
 
 Then you simply showed this [unmoderated user testing](https://blog.userlook.co/remote-user-testing-for-mobile-apps) video to your team:
-<iframe frameborder="0" scrolling="no" marginheight="0" marginwidth="0"width="788.54" height="443" type="text/html" src="https://www.youtube.com/embed/tRBQlRKT2SE?autoplay=0&fs=0&iv_load_policy=3&showinfo=0&rel=0&cc_load_policy=1&start=0&end=0&origin=https://youtubeembedcode.com"><div><small><a href="https://youtubeembedcode.com/en">youtube embed code</a></small></div><div><small><a href="https://promocode.com.ph/">http://promocode.com.ph/</a></small></div><div><small><a href="https://youtubeembedcode.com/en">youtube embed code</a></small></div><div><small><a href="https://promocode.com.ph/">www://promocode.com.ph/</a></small></div></iframe>
+
+<iframe frameborder="0" scrolling="no" marginheight="0" marginwidth="0"width="788.54" height="443" type="text/html" src="https://www.youtube.com/embed/tRBQlRKT2SE?autoplay=0&fs=0&iv_load_policy=3&showinfo=0&rel=0&cc_load_policy=1&start=0&end=0"></iframe>
+
 New user visiting Medium’s homepage (we are not affiliated with Medium and the homepage probably changed since 😊).
 
 Here are a few highlights of what your team may have witnessed and realized after watching this short video:
