@@ -5,6 +5,7 @@ $grey-color:       #828282;
 .logo {
   position: absolute;
   left: 20px;
+  top: -19px;
   
 
 }
@@ -43,7 +44,7 @@ amp-img {
 $rs: 16px;
 
 $font-serif: Georgia,Cambria,"Times New Roman",Times,'Lora', serif;
-$font-sans: "Helvetica Neue", 'Open Sans', Arial, Helvetica, sans-serif;
+$font-sans: "Lato", 'Open Sans', Arial, Helvetica, sans-serif;
 
 @mixin respond-to($breakpoint) {
   @media only screen and (max-width: $breakpoint + px) {
