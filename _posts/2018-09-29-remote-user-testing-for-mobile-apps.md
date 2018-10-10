@@ -5,10 +5,9 @@ layout: post
 permalink: remote-user-testing-for-mobile-apps
 
 ---
-Remote user testing is a method of gathering insights from users or customers by watching them use and talk about your app (usually in the form of a video screen recording or live video chat).
 
-![remote user testing recording](https://cdn-images-1.medium.com/max/1600/1*7QcekLby6WzZfXWlvBLz0Q.jpeg "remote user testing setup")No need for equipment, scheduling and logistics w/ remote user testing ([image source](http://www.fakecrow.com))
-
+![remote user testing recording](https://cdn-images-1.medium.com/max/1600/1*7QcekLby6WzZfXWlvBLz0Q.jpeg "remote user testing setup")Remote user testing is a method of gathering insights from users or customers by watching them use and talk about your app (usually in the form of a video screen recording or live video chat).  
+  
 In this article, we’ll explain why, specifically unmoderated remote user testing (remote user feedback videos), is a great way to get valuable user insights to improve your mobile app and product.
 
 ### **User testing tells you the WHY**
