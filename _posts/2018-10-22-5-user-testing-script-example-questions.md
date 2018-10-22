@@ -5,7 +5,6 @@ layout: post
 permalink: five-user-testing-script-example-questions
 
 ---
-
 ![](https://cdn-images-1.medium.com/max/2000/1*m7u0ruDgIXFU6Aj1mID4oQ.jpeg)
 
 When you decide that you want to start a user testing or usability study—you may be daunted by the task of preparing a user testing script.
