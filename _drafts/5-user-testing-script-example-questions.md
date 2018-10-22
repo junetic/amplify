@@ -1,8 +1,8 @@
 ---
 title: 5 User Testing Script Example Questions
 date: 2018-10-22 06:55:51 +0000
-layout: ''
-permalink: 5-user-testing-script-example-questions
+layout: post
+permalink: five-user-testing-script-example-questions
 
 ---
 ### 
