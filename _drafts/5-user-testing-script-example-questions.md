@@ -5,15 +5,14 @@ layout: post
 permalink: five-user-testing-script-example-questions
 
 ---
-### 
 
 ![](https://cdn-images-1.medium.com/max/2000/1*m7u0ruDgIXFU6Aj1mID4oQ.jpeg)
 
 When you decide that you want to start a user testing or usability study—you may be daunted by the task of preparing a user testing script.
 
-> What questions do you ask users? 
+> What questions do you ask users?
 
-> How do you ask non-leading questions to get unbiased answers? 
+> How do you ask non-leading questions to get unbiased answers?
 
 > How specific or general should the questions be?
 
@@ -23,9 +22,9 @@ The answers of course vary depending on what your learning goals are for your us
 * **To simplest tip to avoid biased answers is to ask more open-ended questions.** Yes or no questions like “Would you use this?” are highly misleading. Instead ask “How does this compare to something similar you experienced/saw recently?”
 * **It’s easy to ask specific questions, but you risk assuming too much.** For example, if you want to learn why people aren’t sharing on your photo sharing app—don’t ask, ‘Now what button would you press to share on this screen?” Do ask, ‘What would you do next on this screen?”
 
-In this article, we’ll cover a basic question template that you can customize that is optimized for an [unmoderated user testing](https://youtu.be/52xV47eZVG4) study for a first time user. 
+In this article, we’ll cover a basic question template that you can customize that is optimized for an [unmoderated user testing](https://youtu.be/52xV47eZVG4) study for a first time user.
 
-![](https://cdn-images-1.medium.com/max/800/1*m6be5JNmUCXpfLZv2-CUWw.jpeg)
+![mobile usability testing](https://cdn-images-1.medium.com/max/800/1*m6be5JNmUCXpfLZv2-CUWw.jpeg "mobile usability testing")
 
 Below are 5 example questions that you can use as a base template and script for your [next user or usability testing](https://blog.userlook.co/getting-buyin-for-user-testing).
 
@@ -59,10 +58,10 @@ After the user has had some time to experience the product, take a step back to 
 
 > Finally, give any last thoughts as to how you think this site/app could be changed for you and why. How likely are you to return to this site/app? Why or why not?
 
-![](https://cdn-images-1.medium.com/max/800/1*F8v6DTO-HPgHfSXg0PonpA.gif)Asking why is the first step toward the truth
+![five whys user research](https://cdn-images-1.medium.com/max/800/1*F8v6DTO-HPgHfSXg0PonpA.gif "five whys user research")Asking why is the first step toward the truth
 
 The final wrap-up lets people zoom-out and make suggestions that would _help them_. You may have noticed that may of the questions end with ‘why’ or ‘why not.’ There’s a user research technique called the[ 5-Whys](http://designresearchtechniques.com/casestudies/5-whys/). The premise of this technique is that if you keep asking why or even repeat the similar open-ended questions you’re likely to uncover how they really feel and think. The answers to whether they’d return to your product isn’t that useful. But their own explanations of why or why not will give you enough clues toward a valuable insight.
 
-We hope you can use this as a quick guide and template for example questions for your next user testing script. For more in-depth live user interviews, many of the approaches covered in this article are similar. However, there’s many more techniques and methods worth covering in another story :) Stay tuned! 
+We hope you can use this as a quick guide and template for example questions for your next user testing script. For more in-depth live user interviews, many of the approaches covered in this article are similar. However, there’s many more techniques and methods worth covering in another story :) Stay tuned!
 
 Comment below or [follow us](http://www.twitter.com/userlookco) to get updates in helping you more effectively learn from your users 👀😊🙌
