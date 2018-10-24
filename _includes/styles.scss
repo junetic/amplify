@@ -2,6 +2,7 @@
 @import 'syntax-highlighting';
 
 $grey-color:       #828282;
+$darkgrey-color:   #353535;
 .logo {
   position: absolute;
   left: 20px;
@@ -49,8 +50,8 @@ amp-img {
 
 $rs: 16px;
 
-$font-serif: Georgia,Cambria,"Times New Roman",Times,'Lora', serif;
-$font-sans: "Lato", 'Open Sans', Arial, Helvetica, sans-serif;
+$font-serif:'Lora', Georgia, serif;
+$font-sans: 'Lato', Helvetica, sans-serif;
 
 @mixin respond-to($breakpoint) {
   @media only screen and (max-width: $breakpoint + px) {
@@ -283,7 +284,7 @@ body {
   .post-content {
     width: 100%;
     font-family: $font-serif;
-    color: #666;
+    color: $darkgrey-color;
     h1, h2, h3 {
       font-family: $font-sans;
       color:black;
@@ -322,12 +323,12 @@ body {
     p {
       font-weight: 400;
       font-style: normal;
-      font-size: 20px;
+      font-size: 18px;
       line-height: 1.59;
       letter-spacing: -.002em;
       margin-top: 30px;
       margin-bottom: 0;
-      color: #666;
+      color: $darkgrey-color;
       -webkit-hyphens: auto;
       -moz-hyphens: auto;
       hyphens: auto;
@@ -362,6 +363,7 @@ body {
       border: 0px solid #dddddd;
       border-top: 1px solid #dddddd;
     }
+
     blockquote {
       margin: 0 0 30px;
       margin-left: -26px;
@@ -369,11 +371,15 @@ body {
       padding-left: 20px;
       p {
         letter-spacing: 0.01rem;
-        font-weight: 400;
-        mborder-left: 3px solid #57ad68;
-        mpadding-left: 20px;
+        font-weight: 300;
+        mpadding-left: 50px;
         mmargin-left: -26px;
         padding-bottom: 3px;
+        font-size: 27px;
+        font-style: italic;
+        font-family: "Lato";
+        color: #828282;
+        width: 80%;
       }
     }
     ul, ol {
@@ -384,7 +390,7 @@ body {
       padding: 0;
       font-weight: 400;
       font-style: normal;
-      font-size: 20px;
+      font-size: 18px;
       line-height: 30px;
       margin-left: 30px;
       margin-bottom: 12px;

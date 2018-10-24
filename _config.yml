@@ -17,7 +17,7 @@ paginate:	5 # The number of posts to show per page on your homepage
 
 name: 'UserLook'
 bio: >
-  UserLook makes remote in-context user testing simple, fast and cheap.
+  The simplest way to get real user insightss
 author_image: "/assets/images/author.jpg"
 twitter_username: userlookco
 github_username:  
