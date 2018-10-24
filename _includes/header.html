@@ -1,11 +1,11 @@
 <header class="site-header">
-  <a href="https://www.userlook.co" class=""><span class="logo"><img src="{{ site.baseurl }}/assets/images/logo.png"  height="50" /></span></a>
+  <a href="https://blog.userlook.co" class=""><span class="logo"><img src="{{ site.baseurl }}/assets/images/logo.png"  height="50" /></span></a>
 
   <div class="page-links">
-    <a class="page-link" href="https://blog.userlook.co/">Home</a>
+    <a class="page-link" href="https://www.userlook.co/">UserLook</a>
     {% for my_page in site.pages %}
       {% if my_page.title %}
-      &nbsp;|&nbsp; <a class="page-link" href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a>
+      &nbsp;&nbsp;|&nbsp; &nbsp; <a class="page-link" href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a>
       {% endif %}
     {% endfor %}
   </div>
