@@ -2,7 +2,7 @@
 @import 'syntax-highlighting';
 
 $grey-color:       #828282;
-$darkgrey-color:   #252525;
+$darkgrey-color:   #464646;
 .logo {
   position: absolute;
   left: 20px;
@@ -124,7 +124,7 @@ body {
   .blog-title {
     margin-bottom: 8px;
     font-size: 50px;
-    font-weight: 740;
+    font-weight: 700;
     letter-spacing: -2px;
     outline: 0;
     line-height: 50px;
@@ -161,7 +161,7 @@ body {
     }
     .post-title {
       letter-spacing: -0.02em;
-      font-weight: 740;
+      font-weight: 700;
       font-style: normal;
       display: block;
       font-size: 42px;
@@ -303,7 +303,7 @@ body {
       font-family: $font-sans;
     }
     h3 {
-      font-size: 32px;
+      font-size: 30px;
     }
     h2, h1 {
       letter-spacing: -0.02em;
