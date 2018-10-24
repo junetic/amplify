@@ -50,8 +50,9 @@ amp-img {
 
 $rs: 16px;
 
-$font-serif: 'Lora', Georgia, serif;
-$font-sans: 'Lato', Helvetica, sans-serif;
+$font-serif: Georgia, serif;
+$font-sans: 'Karla', Helvetica, sans-serif;
+$font-sans-body: Helvetica, sans-serif;
 
 @mixin respond-to($breakpoint) {
   @media only screen and (max-width: $breakpoint + px) {
@@ -70,7 +71,7 @@ main {
 
 body {
   background-color: #fff;
-  font-family: $font-sans;
+  font-family: $font-sans-body;
   margin: 0;
   padding: 0;
   text-rendering: optimizeLegibility;
@@ -182,7 +183,7 @@ body {
       font-size: 21px;
       line-height: 1.75;
       color: $darkgrey-color;
-      font-family: $font-serif;
+      font-family: $font-sans-body;
     }
     .post-meta {
       font-size: 14px;
@@ -286,7 +287,7 @@ body {
 
   .post-content {
     width: 100%;
-    font-family: $font-serif;
+    font-family: $font-sans-body;
     color: $darkgrey-color;
     h1, h2, h3 {
       font-family: $font-sans;
