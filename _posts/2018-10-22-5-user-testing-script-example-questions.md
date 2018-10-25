@@ -51,16 +51,17 @@ So this is the part where you can go deep into a particular feature, use case or
 
 > Thinking back to your experience of this site/app, what stood out to you? Which specific aspects are better or worse than something similar or comparable? Why?
 
-After the user has had some time to experience the product, take a step back to have them compare it to something similar they’ve experienced before (in another product, activity, context..). It will likely be easy and natural because they talked about their recent experience in the first question (ie recent baby shopping experience). Then the next question asks them to reflect on specific aspects that they may have found better, worse or missing to how they may have been used to doing something.
+After the user has had some time to experience the product, take a step back to have them compare it to something similar they’ve experienced before (in another product, activity, context..). It will likely be easy and natural because they talked about their recent experience in the first question (ie recent baby shopping experience). Then the next question asks them to reflect on specific aspects that they may have found better, worse or missing.
 
 **5. Final review and repeat visit**
 
 > Finally, give any last thoughts as to how you think this site/app could be changed for you and why. How likely are you to return to this site/app? Why or why not?
 
-![five whys user research](https://cdn-images-1.medium.com/max/800/1*F8v6DTO-HPgHfSXg0PonpA.gif "five whys user research")Asking why is the first step toward the truth
+![five whys user research](https://cdn-images-1.medium.com/max/800/1*F8v6DTO-HPgHfSXg0PonpA.gif "five whys user research")  
+Asking why is the first step toward the truth.
 
 The final wrap-up lets people zoom-out and make suggestions that would _help them_. You may have noticed that may of the questions end with ‘why’ or ‘why not.’ There’s a user research technique called the[ 5-Whys](http://designresearchtechniques.com/casestudies/5-whys/). The premise of this technique is that if you keep asking why or even repeat the similar open-ended questions you’re likely to uncover how they really feel and think. The answers to whether they’d return to your product isn’t that useful. But their own explanations of why or why not will give you enough clues toward a valuable insight.
 
 We hope you can use this as a quick guide and template for example questions for your next user testing script. For more in-depth live user interviews, many of the approaches covered in this article are similar. However, there’s many more techniques and methods worth covering in another story :) Stay tuned!
 
-Comment below or [follow us](http://www.twitter.com/userlookco) to get updates in helping you more effectively learn from your users 👀😊🙌
+ [Start a conversation or follow us](http://www.twitter.com/userlookco) to get updates in helping you more effectively learn from your users 👀😊🙌
