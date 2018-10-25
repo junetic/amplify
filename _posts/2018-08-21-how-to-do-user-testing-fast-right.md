@@ -8,7 +8,7 @@ permalink: 3-quick-and-cheap-user-testing-methods
 ---
 Quick guide on how to do in-context user testing quickly and cheaply—with no experience required✍️😊
 
-![](https://cdn-images-1.medium.com/max/2000/1*1LY6galn0UUVekfe1M3brQ.png)
+![mobile user testing](https://cdn-images-1.medium.com/max/2000/1*1LY6galn0UUVekfe1M3brQ.png "mobile user testing")
 
 > You may be wondering—why does user testing need to be quick?
 
@@ -20,7 +20,7 @@ Generally speaking, user testing, user research and usability testing (we will u
 
 > Understanding what people say, do, think and feel. And then translating this into actionable next steps. This is the goal of user research and usability testing.
 
-![](https://cdn-images-1.medium.com/max/800/0*AorU5ldRSY8k4uFZ.png)
+![user interaction model say do think feel](https://cdn-images-1.medium.com/max/800/0*AorU5ldRSY8k4uFZ.png "Say do think feel")
 
 What people say, do, think and feel may or may not be in sync. Especially between what they say vs what they actually do. Which is why inferring feelings and thoughts through observation and dialogue is critical (and hard).
 
@@ -32,19 +32,19 @@ Below are the best ways to learn from your users when you are tight on time and 
 
 Sometimes referred to as “hallway usability testing,” this skips all the recruiting, scheduling, waiting..etc. involved in traditional user interviews. You just walk into a cafe or public space and show your prototype/app/website and talk to people. It takes [skills and craft to run the interviews right](https://library.gv.com/gv-guide-to-research-847cfb08fcef), but it can be effective on a low-budget and limited time (usually just offering a coffee gift card works).
 
-![](https://cdn-images-1.medium.com/max/800/1*hOKr7vX_UzRlzbyMy7u91g.png)image [source](http://www.johnferrigan.com/blog/2014/8/31/squareorderpart1)
+![guerilla user testing](https://cdn-images-1.medium.com/max/800/1*hOKr7vX_UzRlzbyMy7u91g.png "guerilla user testing")image [source](http://www.johnferrigan.com/blog/2014/8/31/squareorderpart1)
 
 ### **2. Remote moderated testing (aka video chat)**
 
 This is similar to in-person where you interview people, show them prototypes and learn from them—but in a remote setting usually via video chat. You still need to recruit users, schedule time, risk no-shows—but skipping the travel logistics and global access is really great.
 
-![](https://cdn-images-1.medium.com/max/800/1*v7pk5Su_O4NuHgubsoV2ZA.jpeg)
+![remote moderated user testing](https://cdn-images-1.medium.com/max/800/1*v7pk5Su_O4NuHgubsoV2ZA.jpeg "remote moderated user testing")
 
 ### **3. Remote unmoderated testing (aka automated user testing)**
 
 This is the _fastest and easiest way_ to test with users and get user feedback. You put up your app, website or prototype hooked up to a [service](http://www.userlook.co/) or [tool w/ screen recording and mic](http://recorder.userlook.co/)—and then get back videos of users talking while using it.
 
-![](https://cdn-images-1.medium.com/max/800/1*8vXNVLaZN64LRZEIfMXn8w.png)sample remote unmoderated [user feedback results](http://wwww.userlook.co/)
+![remote unmoderated user testing](https://cdn-images-1.medium.com/max/800/1*8vXNVLaZN64LRZEIfMXn8w.png "remote unmoderate user testing")sample remote unmoderated [user feedback results](http://wwww.userlook.co/)
 
 There are other fast ways where you can get text feedback or survey responses, but we’ll intentionally leave them out here. For the purposes of understanding user behavior, text feedback without seeing what people actually do — leaves too much potential for bias and misinterpretation.
 
