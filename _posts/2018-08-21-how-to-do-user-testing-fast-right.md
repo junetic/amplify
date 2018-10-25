@@ -12,7 +12,7 @@ Quick guide on how to do in-context user testing quickly and cheaply—with no e
 
 ![](https://cdn-images-1.medium.com/max/2000/1*1LY6galn0UUVekfe1M3brQ.png)
 
-### You may be wondering—why does user testing need to be quick?
+> You may be wondering—why does user testing need to be quick?
 
 It doesn’t but it can be. It shouldn’t slow you or your team down in getting to the right solutions either. If you believe iterating, learning and failing sooner will lead you to a better product — then please read on :)
 
