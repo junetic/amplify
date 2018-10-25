@@ -6,8 +6,6 @@ layout: post
 permalink: 3-quick-and-cheap-user-testing-methods
 
 ---
-# 3 Quick & Cheap User Testing Methods
-
 Quick guide on how to do in-context user testing quickly and cheaply—with no experience required ️✍️😊
 
 ![](https://cdn-images-1.medium.com/max/2000/1*1LY6galn0UUVekfe1M3brQ.png)
