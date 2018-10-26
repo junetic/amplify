@@ -17,7 +17,7 @@ You tried to talk on and on about the business benefits and risk-mitigation of u
 
 After multiple dead-end attempts, you simply showed this [unmoderated user testing](https://blog.userlook.co/remote-user-testing-for-mobile-apps) video to your team:
 
-<iframe frameborder="0" scrolling="no" marginheight="0" marginwidth="0"width="788.54" height="443" type="text/html" src="https://www.youtube.com/embed/52xV47eZVG4?autoplay=0&fs=0&iv_load_policy=3&showinfo=0&rel=0&cc_load_policy=1&start=0&end=0&origin=https://youtubeembedcode.com"><div><small><a href="https://youtubeembedcode.com/en">youtube embed code</a></small></div><div><small><a href="http://add-link-exchange.com">source</a></small></div><div><small><a href="https://youtubeembedcode.com/en">https://youtubeembedcode.com/en</a></small></div><div><small><a href="http://add-link-exchange.com">https://add-link-exchange.com</a></small></div></iframe>
+<iframe frameborder="0" scrolling="no" marginheight="0" marginwidth="0"width="788.54" height="443" type="text/html" src="https://www.youtube.com/embed/52xV47eZVG4?autoplay=0&fs=0&iv_load_policy=3&showinfo=0&rel=0&cc_load_policy=1&start=0&end=0></iframe>
 
 New user visiting Medium’s homepage (we are not affiliated with Medium and the homepage probably changed since ).
 
