@@ -13,7 +13,7 @@ fields:
   label: permalink
   name: permalink
 pages:
-- _posts/remote-user-testing-for-mobile-apps-2.md
+- _posts/2018-10-25-remote-user-testing-for-mobile-apps-2.md
 - _posts/2018-10-22-5-user-testing-script-example-questions.md
 - _posts/2018-10-10-show-don-t-tell-getting-buy-in-for-user-testing.md
 - _posts/2018-08-21-how-to-do-user-testing-fast-right.md
