@@ -1,5 +1,5 @@
 ---
-title: Remote User Testing for Mobile Apps 2
+title: Remote User Testing for Mobile Apps
 date: 2018-10-25 02:30:40 +0000
 layout: post
 permalink: remote-user-testing-for-mobile-apps
