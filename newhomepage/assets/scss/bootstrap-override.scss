@@ -1,0 +1,123 @@
+@import 'variables';
+
+$border-radius:              8px;
+$border-radius-lg:           12px;
+
+$btn-border-radius:          53px;
+$btn-border-radius-lg:       $btn-border-radius;
+$btn-border-radius-sm:       $btn-border-radius;
+$btn-font-weight:            700;
+$btn-border-width:           3px;
+$btn-padding-x:              43px;
+$btn-padding-x-lg:           69px;
+$btn-padding-x-sm:           30px;
+$btn-padding-y:              0;
+$btn-padding-y-lg:           16px;
+$btn-padding-y-sm:           0;
+
+$input-padding-x:            30px;
+$input-padding-x-lg:         30px;
+$input-padding-x-sm:         15px;
+$input-padding-y:            15px;
+$input-padding-y-lg:         24px;
+$input-padding-y-sm:         12px;
+$input-height:               72px;
+$input-border-radius-lg:     $border-radius;
+$input-border-color:         $gray-600;
+$input-color:                $gray-800;
+$input-focus-color:          $primary;
+$input-focus-border-color:   $gray-600;
+$input-placeholder-color:    $input-color;
+$input-btn-focus-box-shadow: none;
+
+@import '../vendors/bootstrap/scss/bootstrap';
+/* Link */
+a {
+    &.text-black {
+        color: $black;
+
+        &:hover,
+        &:focus {
+            color: $gray-900;
+        }
+    }
+}
+/* Button */
+.btn {
+    &.btn-md,
+    &.btn-sm {
+        font-size: 20px;
+        line-height: 44px;
+    }
+    &.btn-lg {
+        font-size: 23px;
+        line-height: 49.5px;
+    }
+    .icon {
+        width: 19px;
+        height: auto;
+        margin-left:10px;
+    }
+}
+@media screen and (max-width: 991px) {
+    .btn {
+        &.btn-md,
+        &.btn-sm {
+            padding: 0 25px;
+            font-size: 18px;
+            line-height: 40px;
+        }
+        &.btn-lg {
+            padding: 10px 50px;
+            font-size: 20px;
+            line-height: 46.5px;
+        }
+        .icon {
+            width: 17px;
+            height: auto;
+            margin-left: 8px;
+        }
+    }   
+}
+.btn-text {
+    padding: 9px 0;
+    border-radius: 0;
+    font-size: 20px;
+    @media screen and (max-width: 991px) {
+        font-size: 18px;
+    }
+    font-weight: $btn-font-weight;
+
+    &:hover,
+    &:focus {
+        text-decoration: none;
+    }
+}
+.btn-pink {
+    color: $white;
+    background-color: $pink;
+
+    &:hover,
+    &:focus {
+        color: $white;
+        background-color: darken($pink, 5%);
+    }
+}
+.btn-orange {
+    color: $white;
+    background-color: $orange;
+
+    &:hover,
+    &:focus {
+        color: $white;
+        background-color: darken($orange, 5%);
+    }
+}
+@each $color, $value in $theme-colors {
+    .btn-text-#{$color},
+    .btn-text-#{$color}:hover,
+    .btn-text-#{$color}:focus {
+        color: #{$value};
+        border-bottom: 2px solid #{$value};
+  }
+}

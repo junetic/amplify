@@ -1,0 +1,62 @@
+/* Cover */
+.wrapper {
+    overflow: hidden;
+}
+.cover-inner {
+    position: relative;
+}
+.cover-bg {
+    position: absolute;
+    z-index: -1;
+}
+.cover-bg__top {
+    top: -130px;
+    left: 10%;
+}
+.cover-bg__left {
+    left: -128px;
+    bottom: -235px;
+}
+.cover-bg__right {
+    right: -138px;
+    bottom: -235px;
+}
+@media screen and (max-width: 991px) {
+    .cover-bg__top {
+        width: 150px;
+        top: -75px;
+        left: 25%;
+    }
+    .cover-bg__left {
+        width: 300px;
+        left: -192px;
+        bottom: -175px;
+    }
+    .cover-bg__right {
+        width: 230px;
+        right: -145px;
+    }
+    .cover .hero {
+        padding: 0;
+    }
+}
+@media screen and (max-width: 767px) {
+    .cover-bg__right {
+        right: -183px;
+    }
+}
+@media screen and (max-width: 567px) {
+    .cover-bg__right {
+        right: -150px;
+    }
+}
+.cover {
+    @media screen and (max-width: 567px) {
+        .hero {
+            background-color: rgba(#ffffff, 0.85);
+        }
+    }
+}
+@import 'header';
+@import 'hero';
+@import 'video';

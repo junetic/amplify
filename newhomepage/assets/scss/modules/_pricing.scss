@@ -1,0 +1,80 @@
+/* Pricing */
+.single-pricing {
+    position: relative;
+    width: 100%;
+    margin: 10px 0;
+    padding: 70px 24px 36px;
+    & > div {
+        padding: 0 15px;
+    }
+    @media screen and (min-width: 992px) {
+        &.active {
+            transform: scale(1.145);
+            z-index: 99;
+            left: -14px;
+        }
+    }
+}
+.single-pricing-plan {
+    .plan-period {
+        font-size: 26px;
+        span {
+            display: block;
+            color: #5f5f5f;
+            font-size: 14px;
+            font-weight: 700;
+        }
+    }
+    .plan-price {
+        color: #5f5f5f;
+        padding: 20px 0;
+        &.pro-price {
+            color: #000000;
+        }
+        font-size: 70px;
+        span {
+            font-size: 28px;
+            vertical-align: text-bottom;
+        }
+    }
+}
+.single-pricing-features {
+    margin-bottom: 30px;
+    .plan-features {
+        padding: 0 0 0 10px;
+        border-left: 3px solid #c6c6c6;
+        list-style: none;
+        &.pro-features {
+            border-left-color: $primary;
+
+            .plan-feature {
+                color: $primary;
+            }
+        }
+        .plan-feature {
+            color: rgba(#5f5f5f, 0.81);
+            font-size: 18px;
+        }
+    }
+}
+.plan-note {
+    display: flex;
+    position: absolute;
+    top:  33px;
+    right: 0;
+    width: 133px;
+    height: 30px;
+    color:  #ffffff;
+    border-radius: 42px 0 0 42px;
+    background-color: $primary;
+    font-size: 15px;
+    font-weight: 700;
+    text-transform: uppercase;
+    align-items: center;
+    justify-content: center;
+}
+@media screen and (max-width: 1199px) {
+    .single-pricing-btn .btn {
+        font-size: 15px;
+    }
+}

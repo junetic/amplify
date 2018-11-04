@@ -1,0 +1,45 @@
+/* Footer */
+.footer {
+    padding: 120px 0 50px;
+    @media screen and (max-width: 991px) {
+        padding: 60px 0 25px;
+    }
+    .nav-link {
+        padding: 0;
+        font-size: 19px;
+        @media screen and (max-width: 991px) {
+            font-size: 17px;
+        }
+        @media screen and (max-width: 767px) {
+            font-size: 15px;
+        }
+        line-height: 43px;
+        opacity: 0.78;
+
+        &.nav-head {
+            color: #969696;
+            font-size: 13px;
+            font-weight: 700;
+            line-height: 39px;
+            letter-spacing: 1.63px;
+        }
+    }
+    .footer-social {
+        .nav-link {
+            padding: 0 17.5px;
+
+            .icon {
+                width: 32px;
+                height: auto;
+            }
+        }
+    }
+    .footer-space {
+        padding: 75px 0;
+
+        @media screen and (max-width: 991px) {
+            padding: 10px 0;
+        }
+    }
+
+}

@@ -1,0 +1,174 @@
+/* Page */
+.page {
+    padding-top: 75px;;
+    background-position: top center;
+    @media screen and (max-width: 991px) {
+        padding-top: 30px;
+    }
+}
+.page-title {
+    margin-bottom: 115px;
+    font-size: 44px;
+    line-height: 71px;
+    @media screen and (max-width: 991px) {
+        margin-bottom: 80px;
+        font-size: 40px;
+        line-height: 68px;
+    }
+}
+/* Examples page */
+.video-grid {
+    .video-card__play {
+        width: 47px;
+        height: auto;
+    }
+    .video-btn {
+        margin-top: 32px;
+    }
+}
+.examples-page {
+    .feature {
+        padding-top: 190px;
+        @media screen and (max-width: 991px) {
+            padding: 95px 0 0;
+        }
+        .section-title {
+            margin-bottom: 40px;
+        }
+    }
+    .section-CTA {
+        padding: 100px 0 235px;
+        @media screen and (max-width: 991px) {
+            padding: 95px 0;
+        }
+    }
+    .examples-feature-bg {
+        position: absolute;
+        z-index: -1;
+    }
+    .target-feature-bg-1 {
+        top: 170px;
+        right: -82px;
+    }
+    .target-feature-bg-2 {
+        left: -275px;
+        bottom: 0;
+    }
+    .target-feature-bg-3 {
+        top: 0;
+        right: -133px;
+    }
+    .target-feature-bg-4 {
+        top: 150px;
+        left: -26px;
+    }
+    .target-feature-bg-5 {
+        right: -72px;
+        bottom: 60px;
+    }
+    @media screen and (max-width: 991px) {
+        .target-feature-bg-1 {
+            width: 215px;
+            right: -50px;
+        }
+        .target-feature-bg-2 {
+            width: 290px;
+            left: -124px;
+        }
+        .target-feature-bg-3 {
+            top: 125px;
+            right: -66px;
+            width: 235px;
+            height: auto;
+        }
+        .target-feature-bg-4 {
+            width: 160px;
+        }
+        .target-feature-bg-5 {
+            width: 160px;
+            right: -38px;
+        }
+    }
+}
+/* Pricing */
+.pricing-page {
+    .page {
+        position: relative;
+
+        &:before {
+            content: '';
+            position: absolute;
+            bottom: 0;
+            width: 100%;
+            height: 534px;
+            background-color: #fffd68;
+        }
+    }
+    .faq {
+        padding-top: 136px;
+        @media screen and (max-width: 991px) {
+            padding-top: 65px;
+        }
+        & > .container {
+            background-image: url("../images/bg/pricing-bg-2.png");
+            background-position: 112% 115%;
+            background-size: 563px 556px;
+            background-repeat: no-repeat;
+            @media screen and (max-width: 991px) {
+                background-position: 518px 110%;
+            }
+        }
+        .section-title {
+            margin-bottom: 130px;
+            @media screen and (max-width: 991px) {
+                margin-bottom: 65px;
+            }
+        }
+    }
+    .pricing-bg__left {
+        position: absolute;
+        top: 30px;
+        left: -10px;
+        @media screen and (max-width: 991px) {
+            width: 180px;
+        }
+    }
+    .pricing-bg__right {
+        position: absolute;
+        top: 30px;
+        right: -55px;
+        @media screen and (max-width: 991px) {
+            width: 180px;
+            right: -30px;
+        }
+    }
+    @media screen and (max-width: 767px) {
+        .pricing-bg__left,
+        .pricing-bg__right {
+            display: none;
+        }
+    }
+    .section-CTA {
+        padding: 0 0 100px;
+        @media screen and (max-width: 991px) {
+            padding: 0 0 50px;
+        }
+    }
+}
+@media screen and (min-width: 992px) {
+    .pricing-table .equal-height > div:nth-child(2) {
+        left: -14px;
+    }
+}
+.refund-note {
+    padding: 90px 0 45px;
+    background-image: url('../images/powered-by-stripe.png');
+    background-repeat: no-repeat;
+    background-size: 119px 26px;
+    background-position: 100% 70%;
+
+    @media screen and (max-width: 991px) {
+        padding: 45px 0 90px;
+        background-position: 100% 80%;
+    }
+}
