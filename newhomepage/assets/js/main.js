@@ -20,5 +20,5 @@ function myFunction() {
     mainheader.classList.remove("sticky");
     logo.classList.remove("logoswitch");
 
-  }
+  };
 }
