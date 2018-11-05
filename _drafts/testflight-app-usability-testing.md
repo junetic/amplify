@@ -5,7 +5,7 @@ layout: post
 permalink: Testflight-App-Usability-Testing
 
 ---
-### Testflight Beta App Usability Testing 
+### Testflight Beta App Usability Testing
 
 ![](https://cdn-images-1.medium.com/max/1000/1*USemx54n2Xd2_NapUlY5YA.png)
 
@@ -28,7 +28,7 @@ There’s currently several ways you can get user feedback about your beta app 
 * In-person/live user interviews
 * Chat/DM’s
 
-Other than a few of the methods above, most of the feedback methods give you only a partial picture of what your users are doing, thinking and why. 
+Other than a few of the methods above, most of the feedback methods give you only a partial picture of what your users are doing, thinking and why.
 
 Because now Testflight doesn’t require you to send email invites this means that the speed to get your app started on your user’s phone is much quicker. Given this, below are 3 quick usability testing methods to take advantage of this:
 
@@ -51,8 +51,6 @@ This sort of message with an open-ended question invites dialogue in a casual wa
 #### 3. Unmoderated usability testing
 
 Unmoderated usability testing is great because all you need to do is enter your Testflight URL and some basic test questions to get back results within days. Moreover, the tests are run by everyday people who might encounter your app in the App Store or while at home or work. This is much closer to a real unbiased natural setting without the pressure of someone next to you or feeling like they have to be nice or give you the ‘right’ answer. Here’s a sample video if you want to get a better sense of how a remote user video feedback might look like for a Testflight app:
-
 <iframe width="100%" height="400" src="https://youtu.be/mUpydWlHnWw" frameborder="0" allowfullscreen></iframe>
-
 
 Finally it’s much easier to get real user feedback for beta iOS apps!
