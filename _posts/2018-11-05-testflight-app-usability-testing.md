@@ -5,8 +5,6 @@ layout: post
 permalink: Testflight-Beta-App-Usability-Testing
 
 ---
-### Testflight Beta App Usability Testing
-
 ![](https://cdn-images-1.medium.com/max/1000/1*USemx54n2Xd2_NapUlY5YA.png)
 
 Apple Appstore Connect recently released the ability for developers to share a [public Testflight link](https://developer.apple.com/news/?id=09262018a "public testflight link") to start beta testing their users.
