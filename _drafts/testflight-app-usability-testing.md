@@ -1,7 +1,8 @@
 ---
 title: Testflight App Usability Testing
 date: 2018-11-05 02:27:50 +0000
-layout: ''
+layout: post
+permalink: Testflight-App-Usability-Testing
 
 ---
 ### Testflight Beta App Usability Testing 
