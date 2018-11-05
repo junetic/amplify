@@ -331,7 +331,7 @@ p {
         width: 34px;
         height: 3px;
         margin: 0 0 7px;
-        background: #6960fa;
+        background: #00c696;
         }
   @media screen and (max-width: 991px) {
     .header .navbar-nav {
@@ -383,8 +383,8 @@ p {
 .feature {
   background-repeat: no-repeat;
   overflow-x: hidden;
-  margin: 30px;
-  }
+/*  margin: 30px;
+*/  }
   @media screen and (min-width: 992px) {
     .feature.datainsight .feature-img {
       left: -28.85%;
@@ -578,7 +578,7 @@ p {
 .page-title {
   margin-bottom: 115px;
   font-size: 44px;
-  line-height: 71px; }
+  line-height: 61px; }
   @media screen and (max-width: 991px) {
     .page-title {
       margin-bottom: 80px;
