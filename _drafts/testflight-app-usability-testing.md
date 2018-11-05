@@ -1,15 +1,15 @@
 ---
-title: Testflight App Usability Testing
+title: Testflight Beta App Usability Testing
 date: 2018-11-05 02:27:50 +0000
 layout: post
-permalink: Testflight-App-Usability-Testing
+permalink: Testflight-Beta-App-Usability-Testing
 
 ---
 ### Testflight Beta App Usability Testing
 
 ![](https://cdn-images-1.medium.com/max/1000/1*USemx54n2Xd2_NapUlY5YA.png)
 
-Apple Appstore Connect recently released the ability for developers to share a public Testflight link to start beta testing their users.
+Apple Appstore Connect recently released the ability for developers to share a [public Testflight link](https://developer.apple.com/news/?id=09262018a "public testflight link") to start beta testing their users.
 
 This solves a huge pain that existed in the past for iOS developers who wanted to beta test their app before officially releasing it to the App Store. You basically had to gather emails of potential beta users, add them to Appstore Connect, and then send an email invite that rarely get opened or often end up in their spam folder.
 
