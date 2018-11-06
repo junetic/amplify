@@ -422,20 +422,20 @@ body {
       border-top: 1px solid #dddddd;
     }
     .isLeft {
-      float: left;
-      width: 47%;
+      width: 95%;
       @include box-sizing(border-box);
       @include respond-to(800) {
         width: 100%;
         padding-bottom: $rs * 2;
       }
       .bio {
-        margin: -11px 0 0px 82px;
+        margin: -11px 0 0px -18px;
         color: #666;
         line-height: 1.5;
+        font-size: 16px;
       }
       .bioinfo {
-        margin: 9px 0 0px 82px;
+        margin: 9px 0 0px -18px;
       }
       .username {
         margin-left: 4px;
@@ -525,11 +525,13 @@ body {
 
 .share {
   text-align: right;
-  padding: 20px 0 0;
+  padding: 100px 0 0;
+  color: #828282;
   a {
-    text-decoration: none;
-    color: #bbbbbb;
+    text-decoration: underline;
+    color: #828282;
     padding-left: 12px;
+    font
     .hidden {
       display: none;
     }

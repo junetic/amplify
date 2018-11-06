@@ -12,7 +12,7 @@ layout: default
       {{content}}
     </section>
     <footer class="post-footer">
-      <section class="share"><time datetime="{{ page.date | date: "%F %R" }}">{{ page.date | date_to_string }}</time>&nbsp; | &nbsp;
+      <section class="share"><time datetime="{{ page.date | date: "%F %R" }}">{{ page.date | date_to_string }}</time>&nbsp; &nbsp; | &nbsp;
         <a class="icon" href="https://twitter.com/intent/tweet?url={{ site.url }}{{ page.id }}&text={{page.title | cgi_escape}}&via={{ site.twitter_username }}" target="_blank">
           Share on Twitter
           {% include icon-twitter.html %}
