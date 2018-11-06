@@ -15,7 +15,7 @@ baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://blog.userlook.co" # the base hostname & protocol for your site
 paginate:	5 # The number of posts to show per page on your homepage
 
-name: 'Junu'
+name: 'Junu Yang'
 bio: >
   Hey, I’m one of the founders of UserLook. I’m also a design and research nerd on a mission to help others build things people love. Meerkat is my spirit animal and I’m dreaming of farming humans, animals and robots 🐶🌱😊
 author_image: "/assets/images/author.png"

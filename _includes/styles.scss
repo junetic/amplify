@@ -430,8 +430,12 @@ body {
         padding-bottom: $rs * 2;
       }
       .bio {
-        margin-top: 18px;
-        margin-bottom: 18px;
+        margin: -11px 0 0px 67px;
+        color: #666;
+        line-height: 1.5;
+      }
+      .bioinfo {
+        margin: 9px 0 0px 67px;
       }
       .username {
         margin-left: 4px;
@@ -450,9 +454,13 @@ body {
         }
       }
       .author-image {
-        display: block;
-        width: 80px;
-        height: 80px;
+        background-image: url(/assets/images/author.png);
+        display: inline-block;
+        width: 60px;
+        height: 60px;
+        line-height: 30px;
+        margin-right: 8px;
+        margin-bottom: -10px;
         float: left;
         background-size: cover;
         border-radius: 100%;

@@ -12,13 +12,13 @@ layout: default
       {{content}}
     </section>
     <footer class="post-footer">
-      <section class="share">
+      <section class="share"><time datetime="{{ page.date | date: "%F %R" }}">{{ page.date | date_to_string }}</time>&nbsp; | &nbsp;
         <a class="icon" href="https://twitter.com/intent/tweet?url={{ site.url }}{{ page.id }}&text={{page.title | cgi_escape}}&via={{ site.twitter_username }}" target="_blank">
           Share on Twitter
           {% include icon-twitter.html %}
         </a>
       </section>
-      <p class="published">Published <time datetime="{{ page.date | date: "%F %R" }}">{{ page.date | date_to_string }}</time></p>
+
     </footer>
     <div class="bottom-teaser cf">
       <div class="">
@@ -28,7 +28,7 @@ layout: default
           <h4>{{ site.name }}</h4>
           <p class="bio">{{site.bio}}</p>
 
-          <p>
+          <p class="bioinfo">
             <span>
               {% if site.github_username %}
                 {% include icon-github.html username=site.github_username %}
