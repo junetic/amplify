@@ -19,9 +19,6 @@ After multiple dead-end attempts, you simply showed this [unmoderated user test
 
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/52xV47eZVG4" frameborder="0" allowfullscreen></iframe>
 
-
-New user visiting Medium’s homepage (we are not affiliated with Medium and the homepage probably changed since ).
-
 Here are a few highlights of what your team may have witnessed and realized after watching this short video:
 
 1. Some of the **categories are confusing** (ie ‘Unruly Bodies’) and some context/explanation could be helpful:
