@@ -383,22 +383,24 @@ p {
 .feature {
   background-repeat: no-repeat;
   overflow-x: hidden;
-/*  margin: 30px;
-*/  }
+  /*  margin: 30px;
+*/
+  margin-top: 150px;
+  }
   @media screen and (min-width: 992px) {
     .feature.datainsight .feature-img {
       left: -28.85%;
-      width: 610px;
+      width: 580px;
       /* height: 510px; */
       }
     .feature.sarttesting .feature-img {
       right: -15%;
-      width: 531px;
+      width: 491px;
       /* height: 606px; */
       }
     .feature.team .feature-img {
       left: -21.5%;
-      width: 527px;
+      width: 487px;
       /* height: 493px; */
       } }
   .feature .feature-img {
@@ -459,10 +461,12 @@ p {
           margin-left: 0; } }
       .testimonials .single-testimonial .blockquote-message .quote-icon {
         position: absolute;
-        top: -38px;
-        left: -48px;
-        width: 68px;
-        height: auto; }
+        top: -33px;
+        left: -46px;
+        width: 62px;
+        height: auto;
+        opacity: .8;
+        }
         @media screen and (max-width: 991px) {
           .testimonials .single-testimonial .blockquote-message .quote-icon {
             top: -34px;
