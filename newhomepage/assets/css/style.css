@@ -216,12 +216,14 @@ p {
   }
 
 .cover-bg__left {
-  left: -128px;
-  bottom: -235px; }
+  left: -208px;
+  bottom: -235px;
+  }
 
 .cover-bg__right {
-  right: -138px;
-  bottom: -235px; }
+  right: -198px;
+  bottom: -235px;
+  }
 
 @media screen and (max-width: 991px) {
   .cover-bg__top {
@@ -526,8 +528,10 @@ p {
       .single-pricing-features .plan-features.pro-features .plan-feature {
         color: #6960fa; }
     .single-pricing-features .plan-features .plan-feature {
-      color: rgba(95, 95, 95, 0.81);
-      font-size: 18px; }
+        color: rgba(95, 95, 95, 0.81);
+        font-size: 16px;
+        margin-bottom: 9px;
+        line-height: 1.3;}
 
 .plan-note {
   display: flex;
@@ -668,8 +672,8 @@ p {
     .pricing-page .faq {
       padding-top: 65px; } }
   .pricing-page .faq > .container {
-    background-image: url("../images/bg/pricing-bg-2.png");
-    background-position: 112% 115%;
+    background-image: url(../images/bg/pricing-bg-2.png);
+    background-position: 112% 105%;
     background-size: 563px 556px;
     background-repeat: no-repeat; }
     @media screen and (max-width: 991px) {
