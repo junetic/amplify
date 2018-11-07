@@ -35,7 +35,7 @@ For the latter (new users), it’s best if you can have them talk in-context of 
 
 Beyond first-time users, getting feedback in-context is really important for mobile apps as it’s much more context sensitive and personal compared to websites. Imagine how much you can learn if you can constantly look over someone’s shoulder AND read their mind while they are on that critical sign-up screen (w/ lots of dropoffs)! While this isn’t possible (at least not yet), remote unmoderated user testing can get you _close_.
 
-### Unmoderated user testing is less biased
+### Minimize bias with natural contexts
 
 There are two ways remote user testing is usually done which are _moderated_and _unmoderated_. Moderated remote user testing is simply user feedback sessions that are conducted live via video chat. They are great to go deeper into certain topics, but require craft and skills to conduct while minimizing bias. Unmoderated remote user testing is one that is done by the user in their [own comfortable setting](https://www.interaction-design.org/literature/article/unmoderated-remote-usability-testing-urut-every-step-you-take-we-won-t-be-watching-you) and time while following a set of tasks or questions.
 
