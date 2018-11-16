@@ -13,6 +13,7 @@ fields:
   label: permalink
   name: permalink
 pages:
+- _posts/user-testing-is-like-exercising.md
 - _posts/2018-11-05-testflight-app-usability-testing.md
 - _posts/2018-10-25-remote-user-testing-for-mobile-apps-2.md
 - _posts/2018-10-22-5-user-testing-script-example-questions.md
