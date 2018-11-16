@@ -7,7 +7,7 @@ permalink: usertesting-is-like-exercise
 ---
 ![](https://cdn-images-1.medium.com/max/800/1*vS8MstF0dJBbAW8f8vYWfQ.jpeg)
 
-Here are three reasons why 🏋🏃
+Here are three ways how user and usability testing is like exercise 🏋🏃
 
 #### 1. There’s always an excuse to not do it.
 
@@ -15,7 +15,7 @@ The assumption here is that like exercise, user testing is good for you (or your
 
 And like exercising, you don’t have to do marathons and iron-man types of user research and testing to make gains. You can opt do something like the [7-minute workout](https://well.blogs.nytimes.com/2013/05/09/the-scientific-7-minute-workout/ "7min workout") version of user testing more frequently. Quick and dirty user testing that is undoubted better than not doing anything at all.
 
-![](/uploads/12well_physed-tmagArticle.jpg)  
+![](/uploads/12well_physed-tmagArticle.jpg)
 
 #### 2. You always feel good afterwards
 
