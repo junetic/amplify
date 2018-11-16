@@ -11,9 +11,9 @@ Here are three ways how user and usability testing is like exercise 🏋🏃
 
 #### 1. There’s always an excuse to not do it.
 
-The assumption here is that like exercise, user testing is good for you (or your product). It uncover user needs, issues and opportunities that can easily be missed or mis-assumed. Although you know it’s good for you, all the effort and time around recruiting users, scheduling, preparing test scripts, feedback synthesis..etc. can get in your way. And also, if your conversion metrics or retention aren’t in crisis mode, why should you bother? Well exercising regularly is not only preventive of serious illnesses and diseases, but also helps you [perform better in your life](https://www.mayoclinic.org/healthy-lifestyle/fitness/in-depth/exercise/art-20048389).
+The assumption here is that like exercise, user testing is good for you (or your product). It uncovers user needs, issues and opportunities that can easily be missed or mis-assumed. Although you know it’s good for you, all the effort and time around recruiting users, scheduling, preparing test scripts, feedback synthesis..etc. can get in your way. And also, if your conversion metrics or retention aren’t in crisis mode, why should you bother? Well exercising regularly is not only preventive of serious illnesses and diseases, but also helps you [perform better in your life](https://www.mayoclinic.org/healthy-lifestyle/fitness/in-depth/exercise/art-20048389).
 
-And like exercising, you don’t have to do marathons and iron-man types of user research and testing to make gains. You can opt do something like the [7-minute workout](https://well.blogs.nytimes.com/2013/05/09/the-scientific-7-minute-workout/ "7min workout") version of user testing more frequently. Quick and dirty user testing that is undoubted better than not doing anything at all.
+And like exercising, you don’t have to do marathons and iron-man types of user research and testing to make gains. You can opt do something like the [7-minute workout](https://well.blogs.nytimes.com/2013/05/09/the-scientific-7-minute-workout/ "7min workout") version of user testing more frequently. Quick and dirty user testing is undoubted better than not doing anything at all.
 
 ![](/uploads/12well_physed-tmagArticle.jpg)
 
