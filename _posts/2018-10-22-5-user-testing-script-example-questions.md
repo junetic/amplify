@@ -18,7 +18,7 @@ When you decide that you want to start a user testing or usability study—you m
 The answers of course vary depending on what your learning goals are for your user study and what method of user testing you are going to do. Here are some quick rule-of-thumb’s and tips:
 
 * **Start with broad questions and then deep.** This ensures that you don’t focus on leading your study with your amazing product solutions, but opening up to users’ larger context, life and problems.
-* **The simplest tip to avoid biased answers is to ask more open-ended questions.** Yes or no questions like “Would you use this?” are highly misleading. Instead ask “How does this compare to something similar you experienced/saw recently?”
+* **The simplest tip to avoid biased answers is to ask more** [**open-ended questions**](https://www.nngroup.com/articles/open-ended-questions/ "Open questions in user research")**.** Yes or no questions like “Would you use this?” are highly misleading. Instead ask “How does this compare to something similar you experienced/saw recently?”
 * **It’s easy to ask specific questions, but you risk assuming too much.** For example, if you want to learn why people aren’t sharing on your photo sharing app—don’t ask, ‘Now what button would you press to share on this screen?” Do ask, ‘What would you do next on this screen?”
 
 In this article, we’ll cover a basic question template that you can customize that is optimized for an [unmoderated user testing](https://youtu.be/52xV47eZVG4) study for a first time user.
