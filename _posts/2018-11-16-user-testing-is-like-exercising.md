@@ -1,5 +1,5 @@
 ---
-title: How User Testing is Like Exercise
+title: Why User Testing is Like Exercise
 date: 2018-11-16 08:32:44 +0000
 layout: post
 permalink: usertesting-is-like-exercise
