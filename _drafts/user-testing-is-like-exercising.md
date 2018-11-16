@@ -13,13 +13,13 @@ Here are three reasons why 🏋🏃
 
 The assumption here is that like exercise, user testing is good for you (or your product). It uncover user needs, issues and opportunities that can easily be missed or mis-assumed. Alhough you know it’s good for you, all the effort and time around recruiting users, preparing test scripts, feedback synthesis..etc. can get in your way. And also, if your conversion metrics or retention aren’t in crisis mode, why should you bother? Exercising regularly will not only prevent serious illnesses and diseases, but will increase your health metrics.
 
-And like exercising, you don’t have to do marathons and iron-man types of user research and testing to make gains. You can opt do something like the 6-minute workout version of user testing more frequently. Quick and dirty user testing that is undoubted better than not doing anything at all.
+And like exercising, you don’t have to do marathons and iron-man types of user research and testing to make gains. You can opt do something like the [7-minute workout](https://well.blogs.nytimes.com/2013/05/09/the-scientific-7-minute-workout/ "7min workout") version of user testing more frequently. Quick and dirty user testing that is undoubted better than not doing anything at all.
 
 ![](https://cdn-images-1.medium.com/max/800/1*alI2gw9xII7eLd1s5cOurA.gif)
 
 #### 2. You always feel good for doing it afterwards
 
-The barriers to do user testing can take you and your team over to the point where everyone is skeptical about doing it. How many times have felt the same way with exercising, but felt so good afterwards? There’s always a net positive gain—where it’s building more empathy toward your users/customers or making measurable progress to improve your product.
+The barriers to do user or usability testing can take you and your team over to the point where everyone is skeptical about doing it. How many times have felt the same way with exercising, but felt so good afterwards? There’s always a net positive gain—where it’s building more empathy toward your users/customers or making measurable progress to improve your product.
 
 ![](https://cdn-images-1.medium.com/max/800/1*f-bqKR0M783y8A9-LJWqEg.jpeg)
 
