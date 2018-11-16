@@ -15,8 +15,9 @@ The assumption here is that like exercise, user testing is good for you (or your
 
 And like exercising, you don’t have to do marathons and iron-man types of user research and testing to make gains. You can opt do something like the [7-minute workout](https://well.blogs.nytimes.com/2013/05/09/the-scientific-7-minute-workout/ "7min workout") version of user testing more frequently. Quick and dirty user testing that is undoubted better than not doing anything at all.
 
-#### ![](/uploads/12well_physed-tmagArticle.jpg)  
-2\. You always feel good afterwards
+![](/uploads/12well_physed-tmagArticle.jpg)  
+
+#### 2. You always feel good afterwards
 
 The barriers to do user or usability testing can take you and your team over to the point where everyone is skeptical about doing it. How many times have felt the same way with exercising, but felt so good afterwards? There’s always a net positive gain—where it’s building more empathy toward your users/customers or making measurable progress to improve your product.
 
