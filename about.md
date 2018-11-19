@@ -4,10 +4,5 @@ title: About
 permalink: "/about/"
 
 ---
-Hello! This is the blog for UserLook where we will talk about tips, methods and insights on getting real feedback from users. UserLook makes getting customer feedback and talking to your users easy, cheap and effective. You can out how it works here:  
-  
-[www.userlook.co](www.userlook.co "userlook user testing and feedback")
-
-We also offer a free user testing tool if you already have contact with your own users or customers to get remote in-context feedback from:
-
-[recorder.userlook.co](https://recorder.userlook.co "userlook recorder")
+Hello!   
+My name is Junu and I'm one of the founders of UserLook. Being a product designer and builder, I know how easy it is to be blinded by your own visions and assumptions without actually learning with real users. In fact, I've participated in countless user research sessions working at design consultancies such as IDEO, Frog, R/GA—but still find myself falling into the trap of building without learning from real users. Most would agree that you need to constantly talk to users to design and build products they actually use and love. We ourselves couldn't find a way to do this quickly and easily—which is why we decided to build UserLook. And this blog is to share some of our own learnings and journeys as designers, researchers and founders.
