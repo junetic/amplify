@@ -11,4 +11,4 @@ My name is [Junu](https://www.twitter.com/junetic) and I'm one of the founders o
 
 Most people would agree that you need to regularly talk to your users to design and build products they actually use and love. We ourselves couldn't find great ways to do this quickly and easily—which is why we are building [UserLook](https://userlook.co).
 
-I hope you can find some inspiration and tips from this blog to more effectively learn from your users and improve your product and business 🙌😁
+I hope you can find some inspiration and tips from this blog to more effectively learn from your users and build things people love  🙌😁
