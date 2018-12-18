@@ -1,7 +1,8 @@
 ---
 title: User-Driven Creativity
 date: 2018-12-18 02:15:53 +0000
-layout: ''
+layout: post
+permalink: user-driven-creativity
 
 ---
 ![](https://cdn-images-1.medium.com/max/800/1*ewnTGSGjToNj8NrdmCq9Fw.jpeg)
