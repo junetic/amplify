@@ -11,7 +11,9 @@ It’s common for people who work on products and services (founders, pm’s, de
 
 As you may guess, this is a big misconception.
 
-We often use the word validate when talking about user feedback or user research. In fact, learning from users is often called user and usability _testing_. _Testing_ assumes that you get a set of _finite true/false results_. Analytics and data can tell you those binary results quite easily. However, what happens most as an outcome of user testing is that you get _inspirational results_.
+We often use the word validate when talking about user feedback or user research. In fact, learning from users is often called user and usability _testing_. _Testing_ assumes that you get a set of _finite true/false results_. Analytics and data can tell you those binary results quite easily.   
+  
+What happens most as an outcome of user testing is that you get _inspirational results_.
 
 When you truly understand _why_ your users  are currently behaving the way they do, what you get is something beyond just a new insight or idea. It‘s like being motivated by a really inspirational mentor. They won’t always give you all the answers, but you will feel motivated by seeing things in new and meaningful ways. With enough curiosity, talking to users will let you feel something that creatively pushes you and your team beyond just getting a yes/no about an idea, feature or product.
 
