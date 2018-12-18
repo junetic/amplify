@@ -15,13 +15,13 @@ We often use the word validate when talking about user feedback or user research
   
 What happens most as an outcome of user testing is that you get _inspirational results_.
 
-When you truly understand _why_ your users  are currently behaving the way they do, what you get is something beyond just a new insight or idea. It‘s like being motivated by a really inspirational mentor. They won’t always give you all the answers, but you will feel motivated by seeing things in new and meaningful ways. With enough curiosity, talking to users will let you feel something that creatively pushes you and your team beyond just getting a yes/no about an idea, feature or product.
+When you truly understand _why_ your users  are currently behaving the way they do, what you get is something beyond just a new insight or idea. It‘s like being motivated by a trusted mentor. They won’t always give you all the answers, but you will feel motivated by seeing things in new and meaningful ways. With enough curiosity, talking to users will let you feel something that creatively pushes you and your team beyond just getting a yes/no about an idea, feature or product.
 
 ### Learning as fuel for creativity
 
 Learning is a necessary part of any creative process. For example, a sculptor learns how different materials behave by manipulating it different ways and understanding its behavior.
 
-It’s known that Michelangelo was obsessed with the marble stones for his sculptures. He spent months in the quarry at [Cararra](https://en.wikipedia.org/wiki/Carrara_marble) to find the perfect stone for a subject, often leaving little time for him to do the actual sculpting of the stone. Being in the quarry, he was constantly learning intimately about the medium of his work.
+Michelangelo was obsessed with the marble stones for his sculptures. He spent months in the quarry at [Cararra](https://en.wikipedia.org/wiki/Carrara_marble) to find the perfect stone for a subject, often leaving little time for him to do the actual sculpting of the stone. Being in the quarry, he was constantly learning intimately about the medium of his work.
 
 ![](https://cdn-images-1.medium.com/max/800/1*JRx-OikxvtaTOU98Zg3G9g.jpeg)
 
