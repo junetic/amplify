@@ -9,10 +9,10 @@ permalink: user-driven-creativity
 
 It’s common for people who work on products and services (founders, pm’s, designers..etc) to think of user research, or learning from users, as something uncreative. Something nice-to-have, but not as exciting or generative as making, designing and building.
 
-As you may guess, this is a big misconception.
+As you might guess, this is a big misconception.
 
-We often use the word validate when talking about user feedback or user research. In fact, learning from users is often called user and usability _testing_. _Testing_ assumes that you get a set of _finite true/false results_. Analytics and data can tell you those binary results quite easily.   
-  
+We often use the word validate when talking about user feedback or user research. In fact, learning from users is often called user and usability _testing_. _Testing_ assumes that you get a set of _finite true/false results_. Analytics and data can tell you those binary results quite easily.
+
 What happens most as an outcome of user testing is that you get _inspirational results_.
 
 When you truly understand _why_ your users  are currently behaving the way they do, what you get is something beyond just a new insight or idea. It‘s like being motivated by a trusted mentor. They won’t always give you all the answers, but you will feel motivated by seeing things in new and meaningful ways. With enough curiosity, talking to users will let you feel something that creatively pushes you and your team beyond just getting a yes/no about an idea, feature or product.
@@ -51,7 +51,7 @@ For Airbnb, their user-driven creativity came during their challenge of acquirin
 
 > There is nothing like watching a person either, smile with delight or just gnash their teeth and struggle and be frustrated when they’re using your product. It’s those kinds of stories that really, really fire me up — [Frank Yoo](https://www.frankyoo.com/)
 
-Inspiration and creativity is often thought of as a ground breaking insight or a brand new learning. When the live video streaming startup [Justin.tv](https://en.wikipedia.org/wiki/Justin.tv) realized the needs of their users who were hardcore video gamers, they pivoted to create a billion dollar company called [Twitch](http://www.twtich.tv). This kind of big light-bulb insight is what everyone is looking for when thinking about user research or testing. But just like billion-dollar unicorn startups, they are not the norm.
+Inspiration and creativity is often thought of as a ground breaking insight or a brand new learning. When the live video streaming startup [Justin.tv](https://en.wikipedia.org/wiki/Justin.tv) realized the needs of their users who were hardcore video gamers, they pivoted to create a multi-billion dollar company called [Twitch](http://www.twtich.tv). This kind of big light-bulb insight is what everyone is looking for when thinking about user research or testing. But just like billion-dollar unicorn startups, they are not the norm.
 
 It’s often the case that you get inspired with something obvious or something you already knew. Imagine you kind of knew that your product’s sign-up process had issues. And when you actually saw first-hand how users got frustrated—you immediately started to creatively come up with ways to make it better. This is user-driven creativity. It can occur as new knowledge, but it often comes as new feelings and motivation that spur creative action. Even with Justin.tv and Twitch, the founders knew for years that a portion of their users were gamers who live-streamed video games. It wasn’t until the founders started talking to these users that they realized how big their needs were.
 
