@@ -11,7 +11,7 @@ It’s common for people who work on products and services (founders, pm’s, de
 
 As you might guess, this is a big misconception.
 
-We often use the word validate when talking about user feedback or user research. In fact, learning from users is often called user and usability _testing_. _Testing_ assumes that you get a set of _finite true/false results_. Analytics and data can tell you those binary results quite easily.
+We often say 'validate' when talking about user feedback or user research. In fact, learning from users is often called user and usability _testing_. _Testing_ assumes that you get a set of _finite true/false results_. Analytics and data can tell you those binary results quite easily.
 
 What happens most as an outcome of user testing is that you get _inspirational results_.
 
