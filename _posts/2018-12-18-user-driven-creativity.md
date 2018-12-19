@@ -19,7 +19,7 @@ When you truly understand _why_ your users  are currently behaving the way they 
 
 ### Learning as fuel for creativity
 
-Learning is a necessary part of any creative process. For example, a sculptor learns how different materials behave by manipulating it different ways and understanding its behavior.
+Learning is a necessary part of any creative process. For example, a sculptor learns how different materials behave by manipulating them in different ways and understanding their behavior.
 
 Michelangelo was obsessed with the marble stones for his sculptures. He spent months in the quarry at [Cararra](https://en.wikipedia.org/wiki/Carrara_marble) to find the perfect stone for a subject, often leaving little time for him to do the actual sculpting of the stone. Being in the quarry, he was constantly learning intimately about the medium of his work.
 
