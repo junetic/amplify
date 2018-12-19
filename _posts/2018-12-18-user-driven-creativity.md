@@ -31,7 +31,7 @@ When it comes to products, your users are your medium. Understanding them intima
 
 The first reason is that talking to users and doing user research takes significant time, skill and resources. You need to ask non-leading questions, find and recruit the right users and then be able to pattern-match and extract learnings. To makers, all of this can feel like chore and not as fun or important as crafting beautiful things.
 
-The other big reason stems from the misunderstood cliche of the Henry Ford story—”If you ask people what they want, they would’ve said faster horses.” The big issue with Ford’s story is that asking users what they want is actually the wrong way to learn (he apparently [didn’t even say it](http://%28apparently%20he%20didn%27t%20even%20say%20this%29)).
+The other big reason stems from the misunderstood cliche of the Henry Ford story—”If you ask people what they want, they would’ve said faster horses.” The big issue with Ford’s story is that asking users what they want is actually the wrong way to learn (he apparently [didn’t even say it](https://hbr.org/2011/08/henry-ford-never-said-the-fast)).
 
 > People don’t know what they want and they especially don’t know of a solution that they never heard of.
 
