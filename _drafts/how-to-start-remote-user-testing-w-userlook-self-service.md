@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 'How to Start a Remote Usability Test w/ UserLook '
+permalink: How-to-Start-a-Remote-Usability-Test
 
 ---
 This is a how-to guide to quickly setup a remote unmoderated user / usability test in minutes with the Self-Service tool provided by UserLook.
