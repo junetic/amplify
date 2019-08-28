@@ -12,8 +12,8 @@ fields:
   label: permalink
   name: permalink
 pages:
-- _posts/2018-10-25-remote-user-testing-for-mobile-apps-2.md
 - _posts/how-to-start-remote-user-testing-w-userlook-self-service.md
+- _posts/2018-10-25-remote-user-testing-for-mobile-apps-2.md
 - _posts/2018-12-18-user-driven-creativity.md
 - _posts/2018-10-22-5-user-testing-script-example-questions.md
 - _posts/2018-11-05-testflight-app-usability-testing.md
