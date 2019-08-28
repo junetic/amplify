@@ -41,7 +41,11 @@ img {
   text-align: center;
   margin: 20px auto 20px auto;
   display: block;
-  border: 1px #eaeaea solid;
+}
+p{
+  img {
+    border: 1px #eaeaea solid;
+  }
 }
 amp-img {
   background-color: grey;
