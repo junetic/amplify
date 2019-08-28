@@ -3,17 +3,17 @@ layout: post
 title: 'How to Start a Remote Usability Test w/ UserLook '
 
 ---
-This is a how-to guide to quickly setup a remote unmoderated user testing in minutes with the Self-Service tool provided by UserLook.
+This is a how-to guide to quickly setup a remote unmoderated user / usability test in minutes with the Self-Service tool provided by UserLook.
 
 ### **1. Create a** [**Self-Service Test**](https://userlook.co/dashboard/add?selfService=true)
 
-You can start with the free plan which lets you try out a test w/ up to two videos. Simply enter your website, app, or prototype URL and edit the pre-filled tasks/questions as you'd like. You can also customize the types of info you'd like to get from your users  (ie name, email, occupation, age..etc) when they join your remote user test. Once your test is created, you'll get a test participation link in your dashboard that you can share with your users. 
+You can start with the free plan which lets you try out a test w/ up to two videos. Simply enter your website, app, or prototype URL and edit the pre-filled tasks/questions as you'd like. You can also customize the types of info you'd like to get from your users  (ie name, email, occupation, age..etc) when they join your remote user test. Once your test is created, you'll get a test participant link in your dashboard that you can share with your users. 
 
 ![](/uploads/unmoderated user usability testing script.gif)
 
 ### **2. Try out the test yourself as a user**
 
-Once your
+Once you get your test participant link, it's a good idea to try out the test yourself to make sure your tasks and test
 
 ![](/uploads/user usability testing screen recording.gif)
 
