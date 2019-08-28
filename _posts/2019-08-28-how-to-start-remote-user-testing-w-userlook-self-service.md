@@ -4,6 +4,7 @@ title: 'How to Start a Remote Usability Test w/ UserLook '
 permalink: How-to-Start-a-Remote-Usability-Test
 
 ---
+![](/uploads/test7 copy.png)  
 This is a how-to guide to quickly setup a remote unmoderated user / usability test in minutes with the Self-Service tool provided by UserLook.
 
 ### **1. Create a** [**Self-Service Test**](https://userlook.co/dashboard/add?selfService=true)
@@ -14,13 +15,13 @@ You can start with the free plan which lets you try out a test w/ up to two vide
 
 ### **2. Try out the test yourself as a user**
 
-Once you get your test participant link, it's a good idea to try out the test yourself to make sure your tasks, recording time, participant info requirements..etc are setup as you'd like. After entering in some of your test info, you'll then be guided to setup your Chrome browser for recording and then start the test with list of your tasks and questions. Once you check off the entire list of tasks, you can then upload the recording if minimum time (if set) has been met. 
+Once you get your test participant link, it's a good idea to try out the test yourself to make sure your tasks, recording time, participant info requirements..etc are setup as you'd like. After entering in some of your test info, you'll then be guided to setup your Chrome browser for recording and then start the test with list of your tasks and questions. Once you check off the entire list of tasks, you can then upload the recording if minimum time (if set) has been met.
 
 ![](/uploads/user usability testing screen recording.gif)
 
 ### **3. Send a note to your users** (modify template below)
 
-You can email your users to recruit them for testing, but any channel where you already interact with your users works just as well (Intercom, SMS, Twitter, Facebook Pages..etc). We also recommend providing a gift card for their time (such as Starbucks or Amazon)—to make sure you get enough quality responses. 
+You can email your users to recruit them for testing, but any channel where you already interact with your users works just as well (Intercom, SMS, Twitter, Facebook Pages..etc). We also recommend providing a gift card for their time (such as Starbucks or Amazon)—to make sure you get enough quality responses.
 
 > Hello \[Jackie\]!
 >
