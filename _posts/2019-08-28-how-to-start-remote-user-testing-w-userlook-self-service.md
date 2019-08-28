@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'How to Start a Remote Usability Test w/ UserLook '
+title: 'How to Start a Remote Usability Test (w/ UserLook) '
 permalink: How-to-Start-a-Remote-Usability-Test
 
 ---
