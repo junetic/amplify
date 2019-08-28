@@ -1,6 +1,6 @@
 ---
 title: Remote User Testing for Mobile Apps
-date: 2018-10-25 02:30:40 +0000
+date: '2018-10-25T02:30:40.000+00:00'
 layout: post
 permalink: remote-user-testing-for-mobile-apps
 
@@ -45,4 +45,6 @@ There are two ways remote user testing is usually done which are _moderated_and
 
 Most importantly, [unmoderated user testing](https://www.userlook.co/) is highly unbiased because the feedback is in-context and without the pressure of being watched or being polite. Watching what people do in their natural environment combined with them verbalizing their thoughts/reactions—makes unmoderated user testing a very powerful tool.
 
-We hope this article was helpful in helping you see the value of remote unmoderated user testing for your mobile apps. Please feel free to[ reach out on twitter](http://www.twitter.com/userlookco) or comment if you have any questions!
+We hope this article was helpful in helping you see the value of remote unmoderated user testing for your mobile apps. You can find out more about the differences and pros/cons of [unmoderated vs. moderated user testing here]().
+
+Please feel free to[ reach out on twitter](http://www.twitter.com/userlookco) or comment if you have any questions!
