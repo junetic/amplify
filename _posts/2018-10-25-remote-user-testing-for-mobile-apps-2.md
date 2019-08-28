@@ -43,8 +43,8 @@ There are two ways remote user testing is usually done which are _moderated_and
 
 > There’s pros/cons to each of these methods, but generally unmoderated user testing is much more efficient because there is no scheduling, little setup and no time spent conducting sessions.
 
-Most importantly, [unmoderated user testing](https://www.userlook.co/) is highly unbiased because the feedback is in-context and without the pressure of being watched or being polite. Watching what people do in their natural environment combined with them verbalizing their thoughts/reactions—makes unmoderated user testing a very powerful tool.
+Most importantly, [unmoderated user testing](https://www.userlook.co/) is highly unbiased because the feedback is in-context and without the pressure of being watched or being polite. Watching what people do in their natural environment combined with them verbalizing their thoughts/reactions—makes unmoderated user testing a very powerful tool. You can find out more about the differences and pros/cons of [unmoderated vs. moderated user testing here](https://stxnext.com/blog/2019/05/10/moderated-unmoderated-remote-usability-testing/ "Moderated and Unmoderated Remote Usability Testing").
 
-We hope this article was helpful in helping you see the value of remote unmoderated user testing for your mobile apps. You can find out more about the differences and pros/cons of [unmoderated vs. moderated user testing here](https://stxnext.com/blog/2019/05/10/moderated-unmoderated-remote-usability-testing/ "Moderated and Unmoderated Remote Usability Testing").
+We hope this article was helpful in helping you see the value of remote unmoderated user testing for your mobile apps. 
 
 Please feel free to[ reach out on twitter](http://www.twitter.com/userlookco) or comment if you have any questions!
