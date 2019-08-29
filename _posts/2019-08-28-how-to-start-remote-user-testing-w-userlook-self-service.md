@@ -30,8 +30,8 @@ You can email your users to recruit them for testing, but any channel where you 
 > _https://www.userlook.co/test/XXXXXX_
 >
 > This study will be open and available until \[xx date\]. We look forward to hearing your honest feedback and thoughts!"
->
-> ![](/uploads/send email.png)
+
+![](/uploads/send email.png)
 
 ### **4. Get Video Results & Analyze**
 
